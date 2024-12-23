@@ -1,4 +1,4 @@
-namespace OAuthNet.Models;
+namespace OAuthDotNet.Models;
 
 public class ErrorViewModel
 {

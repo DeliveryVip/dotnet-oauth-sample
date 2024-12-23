@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using OAuthNet.Models;
+using OAuthDotNet.Models;
 
-namespace OAuthNet.Controllers;
+namespace OAuthDotNet.Controllers;
 
 public class HomeController : Controller
 {
