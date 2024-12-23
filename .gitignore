@@ -1,0 +1,88 @@
+# Build Folders (can be ignored as they are generated)
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Visual Studio files
+.vs/
+*.vscode/
+.vscode/settings.json
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Rider files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Auto-generated files
+Generated_Code/
+Service References/
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+!packages/*.config
+project.lock.json
+project.fragment.lock.json
+
+# Build artifacts
+*.dll
+*.exe
+*.app
+*.ipa
+*.so
+*.dylib
+*.pyc
+*.pdb
+*.mdb
+*.rsp
+*.cache
+
+# Web-specific files
+node_modules/
+wwwroot/build/
+wwwroot/dist/
+
+# Coverage and testing
+coverage/
+*.coverage
+*.coveragexml
+TestResult.xml
+TestResults/
+*.trx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+
+# IDE-specific files
+.idea/
+*.sln.docstates
+*.sln.cache
+
+# Lock files and temp
+.lock.json
+*.pid
+*.seed
